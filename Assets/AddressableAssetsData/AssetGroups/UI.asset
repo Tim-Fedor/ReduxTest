@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ed1c164f3ce43b04b945da1f27d302f0
+  m_SerializeEntries:
+  - m_GUID: c983c647eab7c0d4e8d66f73e3575e89
+    m_Address: DefaultLoseScreen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 56244d98457307c48b1599139b2e5415
+    m_Address: DefaultWinScreen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7cb8b040237304a4da0148546b1e9747, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8e3f6c885170b2d40ad4882dbfea1eea, type: 2}
+    - {fileID: 11400000, guid: 1f1d0c3f900617c4a86d02bfd7e79d42, type: 2}

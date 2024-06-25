@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Platforms
+  m_EditorClassIdentifier: 
+  m_GroupName: Platforms
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0b0316e582dbfe34ab88dedce83c5d59
+  m_SerializeEntries:
+  - m_GUID: 0fd19b810bd203d49bc3863c70802781
+    m_Address: DefaultPlatform
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: cfbcef812a4253841962fa3e61891738
+    m_Address: EmptyPlatform
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f037728c57a9f2b45bb1e81b052d3754
+    m_Address: HighBarrelPlatform
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 96adfde11caba1f469ba1e4157f8e7dc
+    m_Address: LowBarrierPlatform
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d84134c8b31a5e94ba3245d5a92a6162
+    m_Address: TurnPlatform
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ea4edb65ef008394fac251ed1a2970a1
+    m_Address: WinPlatform
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7cb8b040237304a4da0148546b1e9747, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6ab4fc994f4705044939e7a2fb52647b, type: 2}
+    - {fileID: 11400000, guid: 1fbcb766431285f43bbcf2e30dc679c9, type: 2}
